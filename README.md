@@ -76,6 +76,9 @@ Edit
   with:
     scan-type: fs
     scan-ref: .
+
+
+## Terraform
 Run Checkov on Terraform Code
 
 yaml
@@ -92,6 +95,7 @@ Node.js installed (v18+)
 Terraform file(s) in ./terraform directory (e.g. main.tf)
 
 GitHub repository with workflow enabled under .github/workflows/ci.yml
+
 
 📈 How to Use
 Clone this repo:
