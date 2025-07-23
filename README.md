@@ -1,6 +1,3 @@
-Here's the **properly formatted** and cleaned-up `README.md` file in Markdown:
-
----
 
 ```markdown
 #  React DevSecOps CI Pipeline (No Docker)
